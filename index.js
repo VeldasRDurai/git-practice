@@ -5,3 +5,4 @@
 console.log("HELLO WORLD...!")
 
 // 2. print good bye
+console.log("good bye")
